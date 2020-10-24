@@ -1,1 +1,1 @@
-# weekly_challenge
+https://perlweeklychallenge.org/challenges/
